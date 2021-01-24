@@ -1,0 +1,107 @@
+.el-table {
+    margin-top: 10px;
+}
+
+.el-pagination {
+    margin-top: 10px;
+}
+
+.el-card {
+    height: 100%;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    overflow: auto !important;
+    -webkit-overflow-scrolling: touch;
+}
+
+.Boxheight {
+    height: 100%;
+}
+
+.el-tree {
+    width: 60%;
+}
+
+#img {
+    width: 20px;
+    height: 20px;
+}
+
+.el-tabs__item:hover {
+    color: #303133 !important;
+    cursor: pointer;
+}
+
+.el-tabs__item.is-active {
+    color: #fff !important;
+    background-color: #5BAEFF;
+}
+
+.el-tooltip__popper {
+    max-width: 300px;
+}
+
+.el-dialog__header {
+    background-color: #409EFF;
+    padding: 15px 20px 10px !important;
+}
+
+.el-dialog__title {
+    color: #fff !important;
+}
+
+.batchAddDialog .el-icon-close:before {
+    color: #CCC !important;
+}
+
+.el-dialog__close {
+    color: #fff !important;
+}
+
+.el-dialog__footer {
+    padding: 10px 20px 10px !important;
+    border-top: 1px solid #f5f5f5;
+}
+
+.el-tree .el-tree-node__expand-icon.expanded {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.el-tree .el-icon-circle-plus:before {
+    content: "\E7a0";
+    font-size: 16px;
+}
+
+.el-tree .el-tree-node__expand-icon.expanded.el-icon-circle-plus:before {
+    content: "\E7a2";
+    font-size: 16px;
+}
+
+.ql-editor img {
+    width: 80px;
+    height: 80px;
+}
+
+.currentTitle {
+    margin-bottom: 10px;
+    /* font-weight: 700; */
+}
+
+.connect {
+    height: 100%;
+    overflow: hidden;
+}
+
+ul,
+li {
+    list-style: none;
+}
+.icon-fanhui11 {
+    color: #409EFF;
+    font-size: 25px;
+    
+}
+.icon-fanhui11:hover {
+    cursor: pointer;
+}
